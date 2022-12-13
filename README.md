@@ -26,11 +26,12 @@ git clone https://github.com/Igo-Cigo/Python-AI-generated-programs
 To run this command you must have [Git](https://git-scm.com/) installed
 ## Dependencies
 
-To install the needed dependencies to run the programs, open a terminal in the folder that this project is installed in and run the following command: 
+Dependencies and the files are automatically installed if the script from releases is used.
+
+To install the needed dependencies to run the programs manually, open a terminal in the folder that this project is installed in and run the following command: 
 ```
 pip install -r requirements.txt
 ```
-If you get errors try installing the dependencies manually
 
 ## License
 
